@@ -1,0 +1,51 @@
+require: rubocop-performance
+
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+      - db/schema.rb
+      - db/migrate/*
+      - bin/*
+      - node_modules/**/*
+      - config/**/*
+
+Rails:
+  Enabled: true
+
+# Rails/OutputSafety:
+#   Exclude:
+
+Documentation:
+  Enabled: false
+
+# Style/ClassAndModuleChildren:
+#   Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+# Rails/ApplicationRecord:
+#   Exclude:
+
+IndentationConsistency:
+  EnforcedStyle: rails
+
+# Metrics/ClassLength:
+#   Exclude:
+#     - !ruby/regexp /test\/.+/
+
+# Metrics/BlockLength:
+#   Exclude:
+#     - !ruby/regexp /test\/.+/
+#     - !ruby/regexp /config\/.+/
+
+Metrics/LineLength:
+  Max:
+    100
+#   Exclude:
+#     - !ruby/regexp /test\/.+/
+#     - !ruby/regexp /config\/.+/
+
+# Style/BlockDelimiters:
+#   Exclude:
+#     - !ruby/regexp /test\/.+/
