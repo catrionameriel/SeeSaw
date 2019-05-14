@@ -6,6 +6,8 @@ Film.delete_all
 
 action = Genre.create!(name: 'Action')
 sci_fi = Genre.create!(name: 'Sci-Fi')
+coming_of_age = Genre.create!(name: 'Coming of age')
+romance = Genre.create!(name: 'Romance')
 
 jurassic_park = Film.create!(title: 'Jurassic Park',
                              rating: 8,
@@ -19,5 +21,8 @@ avengers = Film.create!(title: 'Avengers: Endgame',
                         date_seen: Date.parse('28th April 2019'),
                         release_date: Date.parse('26th April 2019'))
 
+eighth_grade = Film.create!(title: 'Eighth grade', seen: false)
+
+eighth_grade.genres = [romance, coming_of_age]
 jurassic_park.genres = [action]
 avengers.genres = [action, sci_fi]
