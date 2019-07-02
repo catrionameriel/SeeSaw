@@ -1,0 +1,20 @@
+one:
+  film_id: 1
+  genre_id: 1
+
+two:
+  film_id: 2
+  genre_id: 1
+
+three:
+  film_id: 2
+  genre_id: 3
+
+four:
+  film_id: 3
+  genre_id: 1
+
+five:
+  film_id: 3
+  genre_id: 2
+

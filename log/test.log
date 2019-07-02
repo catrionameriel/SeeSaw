@@ -1,0 +1,1485 @@
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (4.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (3.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (3.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.6ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (4.6ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (1.0ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "filmgenres"[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (1.6ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 11:45:48.447472', '2019-07-02 11:45:48.447472', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 11:45:48.447472', '2019-07-02 11:45:48.447472', 298486374)[0m
+  [1m[36mFixture Insert (0.6ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:08:18.663474', '2019-07-02 13:08:18.663474', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:08:18.663474', '2019-07-02 13:08:18.663474', 298486374)[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:11:34.153394', '2019-07-02 13:11:34.153394', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:11:34.153394', '2019-07-02 13:11:34.153394', 298486374)[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (1, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:15:11.402541', '2019-07-02 13:15:11.402541', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("created_at", "updated_at", "id") VALUES ('2019-07-02 13:15:11.402541', '2019-07-02 13:15:11.402541', 298486374)[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (2, 198737383)[0m
+  [1m[35m (1.9ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.5ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (1.9ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (5.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.7ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.6ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (1.9ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.5ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.3ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.4ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.9ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.4ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.4ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (547761054, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.4ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (2.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (2.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Insert (0.5ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (2.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id") VALUES (980190962, 198737383)[0m
+  [1m[35m (1.9ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('comedy', '2019-07-02 15:00:05.277813', '2019-07-02 15:00:05.277813', 198737383)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('family drama', '2019-07-02 15:00:05.277813', '2019-07-02 15:00:05.277813', 874657994)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('music', '2019-07-02 15:00:05.277813', '2019-07-02 15:00:05.277813', 223486541)[0m
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:20:33.648500', '2019-07-02 16:20:33.648500')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('family drama', '2019-07-02 16:20:33.648500', '2019-07-02 16:20:33.648500', 874657994)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('music', '2019-07-02 16:20:33.648500', '2019-07-02 16:20:33.648500', 223486541)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.7ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:20:45.810367', '2019-07-02 16:20:45.810367')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:20:45.810367', '2019-07-02 16:20:45.810367')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:20:45.810367', '2019-07-02 16:20:45.810367')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:20:45.812774', '2019-07-02 16:20:45.812774')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('family drama', '2019-07-02 16:20:45.812774', '2019-07-02 16:20:45.812774', 874657994)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("name", "created_at", "updated_at", "id") VALUES ('music', '2019-07-02 16:20:45.812774', '2019-07-02 16:20:45.812774', 223486541)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:20:45.814324', '2019-07-02 16:20:45.814324', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:20:45.814324', '2019-07-02 16:20:45.814324', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:20:45.814324', '2019-07-02 16:20:45.814324', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:20:45.814324', '2019-07-02 16:20:45.814324', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:20:45.814324', '2019-07-02 16:20:45.814324', 1018350795)[0m
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:22:20.749641', '2019-07-02 16:22:20.749641')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:22:20.749641', '2019-07-02 16:22:20.749641')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:22:20.749641', '2019-07-02 16:22:20.749641')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:22:20.752078', '2019-07-02 16:22:20.752078')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:22:20.752078', '2019-07-02 16:22:20.752078')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:22:20.752078', '2019-07-02 16:22:20.752078')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:22:20.753288', '2019-07-02 16:22:20.753288', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:22:20.753288', '2019-07-02 16:22:20.753288', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:22:20.753288', '2019-07-02 16:22:20.753288', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:22:20.753288', '2019-07-02 16:22:20.753288', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:22:20.753288', '2019-07-02 16:22:20.753288', 1018350795)[0m
+  [1m[35m (3.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:24:17.591222', '2019-07-02 16:24:17.591222')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:24:17.591222', '2019-07-02 16:24:17.591222')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:24:17.591222', '2019-07-02 16:24:17.591222')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:24:17.593087', '2019-07-02 16:24:17.593087')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:24:17.593087', '2019-07-02 16:24:17.593087')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:24:17.593087', '2019-07-02 16:24:17.593087')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:24:17.594122', '2019-07-02 16:24:17.594122', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:24:17.594122', '2019-07-02 16:24:17.594122', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:24:17.594122', '2019-07-02 16:24:17.594122', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:24:17.594122', '2019-07-02 16:24:17.594122', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:24:17.594122', '2019-07-02 16:24:17.594122', 1018350795)[0m
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:24:41.345014', '2019-07-02 16:24:41.345014')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:24:41.345014', '2019-07-02 16:24:41.345014')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:24:41.345014', '2019-07-02 16:24:41.345014')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:24:41.347960', '2019-07-02 16:24:41.347960')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:24:41.347960', '2019-07-02 16:24:41.347960')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:24:41.347960', '2019-07-02 16:24:41.347960')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:24:41.349511', '2019-07-02 16:24:41.349511', 980190962)[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:24:41.349511', '2019-07-02 16:24:41.349511', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:24:41.349511', '2019-07-02 16:24:41.349511', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:24:41.349511', '2019-07-02 16:24:41.349511', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:24:41.349511', '2019-07-02 16:24:41.349511', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.4ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:24:49.431586', '2019-07-02 16:24:49.431586')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:24:49.431586', '2019-07-02 16:24:49.431586')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:24:49.431586', '2019-07-02 16:24:49.431586')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:24:49.434923', '2019-07-02 16:24:49.434923')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:24:49.434923', '2019-07-02 16:24:49.434923')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:24:49.434923', '2019-07-02 16:24:49.434923')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:24:49.437960', '2019-07-02 16:24:49.437960', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:24:49.437960', '2019-07-02 16:24:49.437960', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:24:49.437960', '2019-07-02 16:24:49.437960', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:24:49.437960', '2019-07-02 16:24:49.437960', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:24:49.437960', '2019-07-02 16:24:49.437960', 1018350795)[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:25:05.391527', '2019-07-02 16:25:05.391527')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:25:05.391527', '2019-07-02 16:25:05.391527')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:25:05.391527', '2019-07-02 16:25:05.391527')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:25:05.393739', '2019-07-02 16:25:05.393739')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:25:05.393739', '2019-07-02 16:25:05.393739')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:25:05.393739', '2019-07-02 16:25:05.393739')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:25:05.395004', '2019-07-02 16:25:05.395004', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:25:05.395004', '2019-07-02 16:25:05.395004', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:25:05.395004', '2019-07-02 16:25:05.395004', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:25:05.395004', '2019-07-02 16:25:05.395004', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:25:05.395004', '2019-07-02 16:25:05.395004', 1018350795)[0m
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:25:16.712278', '2019-07-02 16:25:16.712278')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:25:16.712278', '2019-07-02 16:25:16.712278')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:25:16.712278', '2019-07-02 16:25:16.712278')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:25:16.716488', '2019-07-02 16:25:16.716488')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:25:16.716488', '2019-07-02 16:25:16.716488')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:25:16.716488', '2019-07-02 16:25:16.716488')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:25:16.718663', '2019-07-02 16:25:16.718663', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:25:16.718663', '2019-07-02 16:25:16.718663', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:25:16.718663', '2019-07-02 16:25:16.718663', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:25:16.718663', '2019-07-02 16:25:16.718663', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:25:16.718663', '2019-07-02 16:25:16.718663', 1018350795)[0m
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:25:55.946333', '2019-07-02 16:25:55.946333')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:25:55.946333', '2019-07-02 16:25:55.946333')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:25:55.946333', '2019-07-02 16:25:55.946333')[0m
+  [1m[36mFixture Insert (0.6ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:25:55.948364', '2019-07-02 16:25:55.948364')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:25:55.948364', '2019-07-02 16:25:55.948364')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:25:55.948364', '2019-07-02 16:25:55.948364')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:25:55.949444', '2019-07-02 16:25:55.949444', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:25:55.949444', '2019-07-02 16:25:55.949444', 298486374)[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:25:55.949444', '2019-07-02 16:25:55.949444', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:25:55.949444', '2019-07-02 16:25:55.949444', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:25:55.949444', '2019-07-02 16:25:55.949444', 1018350795)[0m
+  [1m[35m (3.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:26:17.828342', '2019-07-02 16:26:17.828342')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:26:17.828342', '2019-07-02 16:26:17.828342')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:26:17.828342', '2019-07-02 16:26:17.828342')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:26:17.830455', '2019-07-02 16:26:17.830455')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:26:17.830455', '2019-07-02 16:26:17.830455')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:26:17.830455', '2019-07-02 16:26:17.830455')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:26:17.831587', '2019-07-02 16:26:17.831587', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:26:17.831587', '2019-07-02 16:26:17.831587', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:26:17.831587', '2019-07-02 16:26:17.831587', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:26:17.831587', '2019-07-02 16:26:17.831587', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:26:17.831587', '2019-07-02 16:26:17.831587', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (2.4ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:26:26.714489', '2019-07-02 16:26:26.714489')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:26:26.714489', '2019-07-02 16:26:26.714489')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:26:26.714489', '2019-07-02 16:26:26.714489')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:26:26.716920', '2019-07-02 16:26:26.716920')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:26:26.716920', '2019-07-02 16:26:26.716920')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:26:26.716920', '2019-07-02 16:26:26.716920')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:26:26.718431', '2019-07-02 16:26:26.718431', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:26:26.718431', '2019-07-02 16:26:26.718431', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:26:26.718431', '2019-07-02 16:26:26.718431', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:26:26.718431', '2019-07-02 16:26:26.718431', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:26:26.718431', '2019-07-02 16:26:26.718431', 1018350795)[0m
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:29:08.813328', '2019-07-02 16:29:08.813328')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:29:08.813328', '2019-07-02 16:29:08.813328')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:29:08.813328', '2019-07-02 16:29:08.813328')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:29:08.815456', '2019-07-02 16:29:08.815456')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:29:08.815456', '2019-07-02 16:29:08.815456')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:29:08.815456', '2019-07-02 16:29:08.815456')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:29:08.816512', '2019-07-02 16:29:08.816512', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:29:08.816512', '2019-07-02 16:29:08.816512', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:29:08.816512', '2019-07-02 16:29:08.816512', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:29:08.816512', '2019-07-02 16:29:08.816512', 281110143)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:29:08.816512', '2019-07-02 16:29:08.816512', 1018350795)[0m
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.4ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:29:54.822165', '2019-07-02 16:29:54.822165')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:29:54.822165', '2019-07-02 16:29:54.822165')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:29:54.822165', '2019-07-02 16:29:54.822165')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:29:54.824315', '2019-07-02 16:29:54.824315')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:29:54.824315', '2019-07-02 16:29:54.824315')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:29:54.824315', '2019-07-02 16:29:54.824315')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:29:54.825676', '2019-07-02 16:29:54.825676', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:29:54.825676', '2019-07-02 16:29:54.825676', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:29:54.825676', '2019-07-02 16:29:54.825676', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:29:54.825676', '2019-07-02 16:29:54.825676', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:29:54.825676', '2019-07-02 16:29:54.825676', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[36mGenre Load (0.1ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:30:22.973154', '2019-07-02 16:30:22.973154')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:30:22.973154', '2019-07-02 16:30:22.973154')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:30:22.973154', '2019-07-02 16:30:22.973154')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:30:22.975571', '2019-07-02 16:30:22.975571')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:30:22.975571', '2019-07-02 16:30:22.975571')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:30:22.975571', '2019-07-02 16:30:22.975571')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:30:22.977541', '2019-07-02 16:30:22.977541', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:30:22.977541', '2019-07-02 16:30:22.977541', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:30:22.977541', '2019-07-02 16:30:22.977541', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:30:22.977541', '2019-07-02 16:30:22.977541', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:30:22.977541', '2019-07-02 16:30:22.977541', 1018350795)[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[36mGenre Load (0.1ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.3ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:34:39.033047', '2019-07-02 16:34:39.033047')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:34:39.033047', '2019-07-02 16:34:39.033047')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:34:39.033047', '2019-07-02 16:34:39.033047')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:34:39.035423', '2019-07-02 16:34:39.035423')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:34:39.035423', '2019-07-02 16:34:39.035423')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:34:39.035423', '2019-07-02 16:34:39.035423')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:34:39.036580', '2019-07-02 16:34:39.036580', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:34:39.036580', '2019-07-02 16:34:39.036580', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:34:39.036580', '2019-07-02 16:34:39.036580', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:34:39.036580', '2019-07-02 16:34:39.036580', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:34:39.036580', '2019-07-02 16:34:39.036580', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.4ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:34:46.238218', '2019-07-02 16:34:46.238218')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:34:46.238218', '2019-07-02 16:34:46.238218')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:34:46.238218', '2019-07-02 16:34:46.238218')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:34:46.240291', '2019-07-02 16:34:46.240291')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:34:46.240291', '2019-07-02 16:34:46.240291')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:34:46.240291', '2019-07-02 16:34:46.240291')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:34:46.242487', '2019-07-02 16:34:46.242487', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:34:46.242487', '2019-07-02 16:34:46.242487', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:34:46.242487', '2019-07-02 16:34:46.242487', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:34:46.242487', '2019-07-02 16:34:46.242487', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:34:46.242487', '2019-07-02 16:34:46.242487', 1018350795)[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.6ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[36mGenre Load (0.1ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.5ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.6ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:35:01.938389', '2019-07-02 16:35:01.938389')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:35:01.938389', '2019-07-02 16:35:01.938389')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:35:01.938389', '2019-07-02 16:35:01.938389')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:35:01.942820', '2019-07-02 16:35:01.942820')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:35:01.942820', '2019-07-02 16:35:01.942820')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:35:01.942820', '2019-07-02 16:35:01.942820')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:35:01.944769', '2019-07-02 16:35:01.944769', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:35:01.944769', '2019-07-02 16:35:01.944769', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:35:01.944769', '2019-07-02 16:35:01.944769', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:35:01.944769', '2019-07-02 16:35:01.944769', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:35:01.944769', '2019-07-02 16:35:01.944769', 1018350795)[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.5ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:35:55.333720', '2019-07-02 16:35:55.333720')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:35:55.333720', '2019-07-02 16:35:55.333720')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:35:55.333720', '2019-07-02 16:35:55.333720')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:35:55.338771', '2019-07-02 16:35:55.338771')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:35:55.338771', '2019-07-02 16:35:55.338771')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:35:55.338771', '2019-07-02 16:35:55.338771')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:35:55.340063', '2019-07-02 16:35:55.340063', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:35:55.340063', '2019-07-02 16:35:55.340063', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:35:55.340063', '2019-07-02 16:35:55.340063', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:35:55.340063', '2019-07-02 16:35:55.340063', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:35:55.340063', '2019-07-02 16:35:55.340063', 1018350795)[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.3ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:39:37.365708', '2019-07-02 16:39:37.365708')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:39:37.365708', '2019-07-02 16:39:37.365708')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:39:37.365708', '2019-07-02 16:39:37.365708')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:39:37.367226', '2019-07-02 16:39:37.367226')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:39:37.367226', '2019-07-02 16:39:37.367226')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:39:37.367226', '2019-07-02 16:39:37.367226')[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:39:37.371472', '2019-07-02 16:39:37.371472', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:39:37.371472', '2019-07-02 16:39:37.371472', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:39:37.371472', '2019-07-02 16:39:37.371472', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:39:37.371472', '2019-07-02 16:39:37.371472', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:39:37.371472', '2019-07-02 16:39:37.371472', 1018350795)[0m
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:40:08.868235', '2019-07-02 16:40:08.868235')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:40:08.868235', '2019-07-02 16:40:08.868235')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:40:08.868235', '2019-07-02 16:40:08.868235')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:40:08.871470', '2019-07-02 16:40:08.871470')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:40:08.871470', '2019-07-02 16:40:08.871470')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:40:08.871470', '2019-07-02 16:40:08.871470')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:40:08.874211', '2019-07-02 16:40:08.874211', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:40:08.874211', '2019-07-02 16:40:08.874211', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:40:08.874211', '2019-07-02 16:40:08.874211', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:40:08.874211', '2019-07-02 16:40:08.874211', 281110143)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:40:08.874211', '2019-07-02 16:40:08.874211', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (1.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:40:39.265725', '2019-07-02 16:40:39.265725')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:40:39.265725', '2019-07-02 16:40:39.265725')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:40:39.265725', '2019-07-02 16:40:39.265725')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:40:39.266948', '2019-07-02 16:40:39.266948')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:40:39.266948', '2019-07-02 16:40:39.266948')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:40:39.266948', '2019-07-02 16:40:39.266948')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:40:39.268029', '2019-07-02 16:40:39.268029', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:40:39.268029', '2019-07-02 16:40:39.268029', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:40:39.268029', '2019-07-02 16:40:39.268029', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:40:39.268029', '2019-07-02 16:40:39.268029', 281110143)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:40:39.268029', '2019-07-02 16:40:39.268029', 1018350795)[0m
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.3ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.5ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:42:10.389668', '2019-07-02 16:42:10.389668')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:42:10.389668', '2019-07-02 16:42:10.389668')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:42:10.389668', '2019-07-02 16:42:10.389668')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:42:10.392404', '2019-07-02 16:42:10.392404')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:42:10.392404', '2019-07-02 16:42:10.392404')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:42:10.392404', '2019-07-02 16:42:10.392404')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:42:10.393563', '2019-07-02 16:42:10.393563', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:42:10.393563', '2019-07-02 16:42:10.393563', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:42:10.393563', '2019-07-02 16:42:10.393563', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:42:10.393563', '2019-07-02 16:42:10.393563', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:42:10.393563', '2019-07-02 16:42:10.393563', 1018350795)[0m
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "names" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.2ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:42:51.546583', '2019-07-02 16:42:51.546583')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:42:51.546583', '2019-07-02 16:42:51.546583')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:42:51.546583', '2019-07-02 16:42:51.546583')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:42:51.548966', '2019-07-02 16:42:51.548966')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:42:51.548966', '2019-07-02 16:42:51.548966')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:42:51.548966', '2019-07-02 16:42:51.548966')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:42:51.550346', '2019-07-02 16:42:51.550346', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:42:51.550346', '2019-07-02 16:42:51.550346', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:42:51.550346', '2019-07-02 16:42:51.550346', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:42:51.550346', '2019-07-02 16:42:51.550346', 281110143)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:42:51.550346', '2019-07-02 16:42:51.550346', 1018350795)[0m
+  [1m[35m (3.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[36mGenre Load (0.3ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? LIMIT ?[0m  [["film_id", 2], ["LIMIT", 11]]
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "names" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.2ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (2.3ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.2ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.3ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:43:21.181121', '2019-07-02 16:43:21.181121')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:43:21.181121', '2019-07-02 16:43:21.181121')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:43:21.181121', '2019-07-02 16:43:21.181121')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:43:21.183686', '2019-07-02 16:43:21.183686')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:43:21.183686', '2019-07-02 16:43:21.183686')[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:43:21.183686', '2019-07-02 16:43:21.183686')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:43:21.185079', '2019-07-02 16:43:21.185079', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:43:21.185079', '2019-07-02 16:43:21.185079', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:43:21.185079', '2019-07-02 16:43:21.185079', 113629430)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:43:21.185079', '2019-07-02 16:43:21.185079', 281110143)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:43:21.185079', '2019-07-02 16:43:21.185079', 1018350795)[0m
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------------------
+FilmTest: test_film_with_multiple_genres_can_get_genres
+-------------------------------------------------------
+  [1m[36mFilm Load (0.3ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "genres"."name" FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 2]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.1ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mFixture Delete (0.4ms)[0m  [1m[31mDELETE FROM "films"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "genres"[0m
+  [1m[36mFixture Delete (0.1ms)[0m  [1m[31mDELETE FROM "film_genres"[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (1, 'Eighth Grade', 0, '2019-07-02 16:43:50.184135', '2019-07-02 16:43:50.184135')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "rating", "created_at", "updated_at") VALUES (2, 'Wayne''s World', 1, 7, '2019-07-02 16:43:50.184135', '2019-07-02 16:43:50.184135')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "films" ("id", "title", "seen", "created_at", "updated_at") VALUES (3, 'Tully', 0, '2019-07-02 16:43:50.184135', '2019-07-02 16:43:50.184135')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (1, 'comedy', '2019-07-02 16:43:50.186662', '2019-07-02 16:43:50.186662')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (2, 'family drama', '2019-07-02 16:43:50.186662', '2019-07-02 16:43:50.186662')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "genres" ("id", "name", "created_at", "updated_at") VALUES (3, 'music', '2019-07-02 16:43:50.186662', '2019-07-02 16:43:50.186662')[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (1, 1, '2019-07-02 16:43:50.188308', '2019-07-02 16:43:50.188308', 980190962)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 1, '2019-07-02 16:43:50.188308', '2019-07-02 16:43:50.188308', 298486374)[0m
+  [1m[36mFixture Insert (0.1ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (2, 3, '2019-07-02 16:43:50.188308', '2019-07-02 16:43:50.188308', 113629430)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 1, '2019-07-02 16:43:50.188308', '2019-07-02 16:43:50.188308', 281110143)[0m
+  [1m[36mFixture Insert (0.0ms)[0m  [1m[32mINSERT INTO "film_genres" ("film_id", "genre_id", "created_at", "updated_at", "id") VALUES (3, 2, '2019-07-02 16:43:50.188308', '2019-07-02 16:43:50.188308', 1018350795)[0m
+  [1m[35m (3.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+FilmTest: test_film_with_only_one_genre_can_get_genre
+-----------------------------------------------------
+  [1m[36mFilm Load (0.4ms)[0m  [1m[34mSELECT  "films".* FROM "films" WHERE "films"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ?[0m  [["film_id", 1]]
+  [1m[36mGenre Load (0.2ms)[0m  [1m[34mSELECT  "genres".* FROM "genres" INNER JOIN "film_genres" ON "genres"."id" = "film_genres"."genre_id" WHERE "film_genres"."film_id" = ? ORDER BY "genres"."id" ASC LIMIT ?[0m  [["film_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------------------
+FilmsControllerTest: test_/films_goes_to_films_index
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------------
+FilmsControllerTest: test_root_goes_to_films_index
+--------------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
